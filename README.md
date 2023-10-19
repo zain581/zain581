@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zain581
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning data science 
-- 💞️ I’m looking to collaborate on numpy and pandas
+- 🌱 I’m currently working on web development 
+- 💞️ I’m looking to collaborate with peoples 
 - 📫 How to reach me ...
 
 <!---
